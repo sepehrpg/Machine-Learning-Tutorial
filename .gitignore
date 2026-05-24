@@ -1,0 +1,5 @@
+# Ignore the docs folder
+0_Docs
+
+# Ignore the references file
+References.md

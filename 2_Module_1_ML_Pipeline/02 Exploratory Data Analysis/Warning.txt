@@ -1,0 +1,4 @@
+
+In the file ‘1-1-What is Exploratory Data Analysis.md’,
+describe the ‘Types of Exploratory Data Analysis’.
+For each type, explain the key concepts and relevant tools. Finally, ensure all these concepts are covered.
