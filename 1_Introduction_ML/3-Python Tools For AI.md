@@ -284,10 +284,9 @@ Use:
 5. scikit-learn
 
 ## Phase 2: Deep Learning Core
-1. TensorFlow or PyTorch
-2. Keras 3
-3. Optimization basics
-4. GPU concepts
+1. TensorFlow + Keras or PyTorch
+2. Optimization basics
+3. GPU concepts
 
 ## Phase 3: Specialization
 1. NLP and LLMs
