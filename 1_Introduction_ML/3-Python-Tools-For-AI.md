@@ -1,5 +1,6 @@
 
 # The Comprehensive Guide to Python Tools for AI
+> Don't panic! We're not going to use it all.
 
 ## Table of Contents
 1. Core Scientific Python Stack
